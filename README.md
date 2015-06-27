@@ -8,4 +8,4 @@ To identify women's name decisions, we searched for common phrases such as "the 
 
 About one in five announcements in each year examined gave no clear indication of name preference. In these announcements the bride typically was referenced only as "the bride" after her full name was printed. We counted these records as "unclear."
 
-To analyze the data, we used an internal API to collect the text of announcements, loaded them into a PostgreSQL database and then used both SQL and the [Ruby gem String Eater](https://github.com/simplifi/string-eater) to identify and isolate patterns that would help determine the name status.
+To analyze the data, we used an internal API to collect the text of announcements, loaded them into a PostgreSQL database and then used both SQL and the [Ruby gem String Eater](https://github.com/simplifi/string-eater) to identify and isolate patterns that would help determine the name status. Full methodology for the story [here](http://www.nytimes.com/2015/06/28/upshot/about-the-maiden-name-analysis.html).
