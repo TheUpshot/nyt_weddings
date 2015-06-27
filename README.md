@@ -1,6 +1,6 @@
 # NYT Weddings
 
-This repository contains the list of New York Times wedding announcements used in Upshot story on name changes among women who marry. The [CSV file](https://github.com/TheUpshot/nyt_weddings/blob/master/nyt_wedding_announcements.csv) contains the URL, status of the bride's name and the ages of the celebrants, if available.
+This repository contains the list of New York Times wedding announcements used in Upshot story on name changes among women who marry. The [CSV file](https://github.com/TheUpshot/nyt_weddings/blob/master/nyt_wedding_announcements.csv) contains the URL of the announcement, status of the bride's name and the ages of the celebrants, if available.
 
 To analyze The Times data, we compiled the text of 7,835 opposite-sex wedding announcements published in several different years: 1985, 1990, 1995, 2000, 2005, 2010 and 2014. The 1985 data covered only the final four months of that year, and The Times did not publish the ages of celebrants in announcements during that period.
 
